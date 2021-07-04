@@ -1,4 +1,4 @@
-package com.omega.configserver;
+package com.seal.vtex.configserver;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
